@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QRGENZERATOR/static/css/main.bd295e0a.css",
+    "main.js": "/QRGENZERATOR/static/js/main.896c51b7.js",
+    "static/js/787.3fe58564.chunk.js": "/QRGENZERATOR/static/js/787.3fe58564.chunk.js",
+    "index.html": "/QRGENZERATOR/index.html",
+    "main.bd295e0a.css.map": "/QRGENZERATOR/static/css/main.bd295e0a.css.map",
+    "main.896c51b7.js.map": "/QRGENZERATOR/static/js/main.896c51b7.js.map",
+    "787.3fe58564.chunk.js.map": "/QRGENZERATOR/static/js/787.3fe58564.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd295e0a.css",
+    "static/js/main.896c51b7.js"
+  ]
+}
